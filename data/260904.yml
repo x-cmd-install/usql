@@ -7,7 +7,7 @@ about:
   head: f7d0fbe
   archived: false
   latestVersion: v0.21.4
-  collectedAt: 2026-09-04T19:18:35Z
+  collectedAt: 2026-09-04T21:16:44Z
 timeline:
   created: 2017-03-02
   lastCommit: 2026-04-01
@@ -83,6 +83,64 @@ total:
   openIssue: 94
   commit: 1183
 ---
+path: /home/runner/.x-repo/github.com/xo/usql
+collectedAt: 2026-09-04T21:16:45Z
+loc:
+  Go:
+    code: 20102
+    comments: 1859
+    blanks: 1473
+    files: 142
+  Json:
+    code: 3120
+    comments: 0
+    blanks: 0
+    files: 2
+  Sql:
+    code: 1124
+    comments: 235
+    blanks: 230
+    files: 18
+  Sh:
+    code: 644
+    comments: 69
+    blanks: 130
+    files: 14
+  Yaml:
+    code: 50
+    comments: 4
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 7
+    comments: 0
+    blanks: 1
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1350
+    blanks: 361
+    files: 5
+  Text:
+    code: 0
+    comments: 875
+    blanks: 41
+    files: 27
+total:
+  code: 25073
+  comments: 4395
+  blanks: 2238
+  files: 212
 ---
 date: "2026-08-24"
 repo:
