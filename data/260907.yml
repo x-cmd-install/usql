@@ -5,7 +5,7 @@ about:
   head: f7d0fbe
   archived: false
   latestVersion: "v0.21.4"
-  collectedAt: 2026-09-07T05:18:46Z
+  collectedAt: 2026-09-07T19:06:10Z
 timeline:
   created: 2017-03-02
   lastCommit: 2026-04-01
@@ -82,7 +82,7 @@ total:
   commit: 1183
 ---
 path: /home/runner/.x-repo/github.com/xo/usql
-collectedAt: 2026-09-07T05:18:47Z
+collectedAt: 2026-09-07T19:06:12Z
 loc:
   Go:
     code: 20102
@@ -253,7 +253,7 @@ checks:
       - 'Warn: 0 commits out of 2 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:48+00:00
+  collectedAt: 2026-09-07T19:06:13+00:00
   platform:
     darwin/arm64:
       name:  usql-0.21.4-darwin-arm64.tar.bz2
