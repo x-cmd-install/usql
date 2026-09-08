@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 58357267,
       "digest": "sha256:78bd9b221e223d7a954d41f51e9eca98bdd94b401618367ba0f3887abebd44fc",
-      "download_count": 12831,
+      "download_count": 12840,
       "created_at": "2026-03-26T09:25:36Z",
       "updated_at": "2026-03-26T09:25:41Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-amd64.tar.bz2"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 44946790,
       "digest": "sha256:9f5e9311ba98703af69b6d8e1d618a232a0e6ec902edc2316b04dd5a99d6b1f3",
-      "download_count": 3590,
+      "download_count": 3591,
       "created_at": "2026-03-26T09:25:36Z",
       "updated_at": "2026-03-26T09:25:40Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-windows-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 57321595,
       "digest": "sha256:93537a7239737b3d0cd2f42b7a13766a455a40176be7c0896a3586cd698cf751",
-      "download_count": 23317,
+      "download_count": 23318,
       "created_at": "2026-03-26T09:25:36Z",
       "updated_at": "2026-03-26T09:25:40Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.4/usql_static-0.21.4-linux-amd64.tar.bz2"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 36419159,
       "digest": "sha256:69cce9f81d95a855260437567453376e08539ca412305818d08cc4e17b9a42cb",
-      "download_count": 898,
+      "download_count": 916,
       "created_at": "2026-03-26T09:25:36Z",
       "updated_at": "2026-03-26T09:25:39Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.4/usql_static-0.21.4-linux-arm64.tar.bz2"

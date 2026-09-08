@@ -5,13 +5,13 @@ about:
   head: f7d0fbe
   archived: false
   latestVersion: "v0.21.4"
-  collectedAt: 2026-09-08T02:37:02Z
+  collectedAt: 2026-09-08T05:14:59Z
 timeline:
   created: 2017-03-02
   lastCommit: 2026-04-01
   lastRelease: 2026-03-26
 popularity:
-  star: 10099
+  star: 10100
   watcher: 117
   fork: 403
   release: 94
@@ -82,7 +82,7 @@ total:
   commit: 1183
 ---
 path: /home/runner/.x-repo/github.com/xo/usql
-collectedAt: 2026-09-08T02:37:03Z
+collectedAt: 2026-09-08T05:15:00Z
 loc:
   Go:
     code: 20102
