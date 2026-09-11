@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.21.4"
   latestRelease: "v0.21.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:20:42Z
+  collectedAt: 2026-09-11T19:45:34Z
 timeline:
   created: 2017-03-02
   lastCommit: 2026-04-01
@@ -86,7 +86,7 @@ total:
   commit: 1183
 ---
 path: /home/runner/.x-repo/github.com/xo/usql
-collectedAt: 2026-09-11T05:20:44Z
+collectedAt: 2026-09-11T19:45:35Z
 loc:
   Go:
     code: 20102
