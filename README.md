@@ -14,14 +14,14 @@ x install usql
 
 ## Code insight
 
-Total: **25,056** lines of code across **177** files in the top 5 languages.
+Total: **25,794** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 20,102 | 1,859 | 1,473 | 142 |
+| Go | 20,766 | 2,115 | 1,542 | 149 |
 | Json | 3,120 | 0 | 0 | 2 |
 | Sql | 1,124 | 235 | 230 | 18 |
-| Sh | 644 | 69 | 130 | 14 |
+| Sh | 718 | 105 | 148 | 14 |
 | Yaml | 50 | 4 | 0 | 1 |
 
 ## OpenSSF Scorecard
@@ -41,42 +41,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.21.4` (2026-03-26)
-- **Last commit**: 2026-04-01
+- **Latest**: `v0.21.5` (2026-09-13)
+- **Last commit**: 2026-09-13
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,112 · **Forks**: 404 · **Open issues**: 421 · **Contributors**: 33
+- **Stars**: 10,112 · **Forks**: 404 · **Open issues**: 422 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 90 · **Open PRs**: 24 · **Closed issues**: 326 · **Open issues**: 95 · **Commits**: 1183
+- **Releases**: 95 · **Merged PRs**: 90 · **Open PRs**: 24 · **Closed issues**: 327 · **Open issues**: 95 · **Commits**: 1187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 1 | 1 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 4 | 1 | 4 | 0 |
-| last180d | 2026-03-17 | 3 | 0 | 11 | 4 | 10 | 4 |
-| 360d | 2025-09-18 | 15 | 0 | 12 | 12 | 15 | 22 |
-| last720d | 2024-09-23 | 29 | 4 | 18 | 39 | 31 | 75 |
+| 30d | 2026-08-15 | 1 | 0 | 0 | 0 | 2 | 4 |
+| last60d | 2026-07-16 | 1 | 0 | 1 | 1 | 2 | 4 |
+| 90d | 2026-06-16 | 1 | 0 | 4 | 1 | 2 | 4 |
+| last180d | 2026-03-18 | 4 | 0 | 11 | 5 | 10 | 7 |
+| 360d | 2025-09-19 | 16 | 0 | 12 | 13 | 15 | 26 |
+| last720d | 2024-09-24 | 30 | 4 | 18 | 40 | 31 | 79 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [usql-0.21.4-darwin-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-darwin-amd64.tar.bz2) | 52.9 MiB | `native/darwin/x64` |
-| [usql-0.21.4-darwin-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-darwin-arm64.tar.bz2) | 48.7 MiB | `native/darwin/arm64` |
-| [usql-0.21.4-darwin-universal.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-darwin-universal.tar.bz2) | 101.7 MiB | `native/darwin/x64` |
-| [usql-0.21.4-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-amd64.tar.bz2) | 55.7 MiB | `native/linux/x64` |
-| [usql-0.21.4-linux-arm.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-arm.tar.bz2) | 32.6 MiB | `native/linux/arm` |
-| [usql-0.21.4-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-arm64.tar.bz2) | 34.4 MiB | `native/linux/arm64` |
-| [usql-0.21.4-windows-amd64.zip](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-windows-amd64.zip) | 42.9 MiB | `native/win/x64` |
-| [usql_static-0.21.4-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql_static-0.21.4-linux-amd64.tar.bz2) | 54.7 MiB | `native/linux/x64` |
-| [usql_static-0.21.4-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql_static-0.21.4-linux-arm64.tar.bz2) | 34.7 MiB | `native/linux/arm64` |
+| [usql-0.21.5-darwin-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-amd64.tar.bz2) | 60.4 MiB | `native/darwin/x64` |
+| [usql-0.21.5-darwin-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-arm64.tar.bz2) | 56.6 MiB | `native/darwin/arm64` |
+| [usql-0.21.5-darwin-universal.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-universal.tar.bz2) | 117.0 MiB | `native/darwin/x64` |
+| [usql-0.21.5-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-amd64.tar.bz2) | 69.7 MiB | `native/linux/x64` |
+| [usql-0.21.5-linux-arm.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-arm.tar.bz2) | 44.6 MiB | `native/linux/arm` |
+| [usql-0.21.5-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-arm64.tar.bz2) | 47.4 MiB | `native/linux/arm64` |
+| [usql-0.21.5-windows-amd64.zip](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-windows-amd64.zip) | 44.7 MiB | `native/win/x64` |
+| [usql_static-0.21.5-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql_static-0.21.5-linux-amd64.tar.bz2) | 58.9 MiB | `native/linux/x64` |
+| [usql_static-0.21.5-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql_static-0.21.5-linux-arm64.tar.bz2) | 38.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:28:22Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:36:37Z._

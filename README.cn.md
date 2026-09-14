@@ -14,14 +14,14 @@ x install usql
 
 ## 代码洞察
 
-合计: **25,056** 行代码（覆盖前 5 种语言、共 **177** 个文件）。
+合计: **25,794** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 20,102 | 1,859 | 1,473 | 142 |
+| Go | 20,766 | 2,115 | 1,542 | 149 |
 | Json | 3,120 | 0 | 0 | 2 |
 | Sql | 1,124 | 235 | 230 | 18 |
-| Sh | 644 | 69 | 130 | 14 |
+| Sh | 718 | 105 | 148 | 14 |
 | Yaml | 50 | 4 | 0 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -41,42 +41,42 @@ x install usql
 
 ## 发布
 
-- **最新版本**: `v0.21.4` (2026-03-26)
-- **最近提交**: 2026-04-01
+- **最新版本**: `v0.21.5` (2026-09-13)
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 10,112 · **Fork**: 404 · **开放 issue**: 421 · **贡献者**: 33
+- **Star**: 10,112 · **Fork**: 404 · **开放 issue**: 422 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 94 · **已合并 PR**: 90 · **开放 PR**: 24 · **已关闭 issue**: 326 · **开放 issue**: 95 · **提交数**: 1183
+- **发布数**: 95 · **已合并 PR**: 90 · **开放 PR**: 24 · **已关闭 issue**: 327 · **开放 issue**: 95 · **提交数**: 1187
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 1 | 1 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 4 | 1 | 4 | 0 |
-| last180d | 2026-03-17 | 3 | 0 | 11 | 4 | 10 | 4 |
-| 360d | 2025-09-18 | 15 | 0 | 12 | 12 | 15 | 22 |
-| last720d | 2024-09-23 | 29 | 4 | 18 | 39 | 31 | 75 |
+| 30d | 2026-08-15 | 1 | 0 | 0 | 0 | 2 | 4 |
+| last60d | 2026-07-16 | 1 | 0 | 1 | 1 | 2 | 4 |
+| 90d | 2026-06-16 | 1 | 0 | 4 | 1 | 2 | 4 |
+| last180d | 2026-03-18 | 4 | 0 | 11 | 5 | 10 | 7 |
+| 360d | 2025-09-19 | 16 | 0 | 12 | 13 | 15 | 26 |
+| last720d | 2024-09-24 | 30 | 4 | 18 | 40 | 31 | 79 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [usql-0.21.4-darwin-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-darwin-amd64.tar.bz2) | 52.9 MiB | `native/darwin/x64` |
-| [usql-0.21.4-darwin-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-darwin-arm64.tar.bz2) | 48.7 MiB | `native/darwin/arm64` |
-| [usql-0.21.4-darwin-universal.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-darwin-universal.tar.bz2) | 101.7 MiB | `native/darwin/x64` |
-| [usql-0.21.4-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-amd64.tar.bz2) | 55.7 MiB | `native/linux/x64` |
-| [usql-0.21.4-linux-arm.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-arm.tar.bz2) | 32.6 MiB | `native/linux/arm` |
-| [usql-0.21.4-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-linux-arm64.tar.bz2) | 34.4 MiB | `native/linux/arm64` |
-| [usql-0.21.4-windows-amd64.zip](https://github.com/xo/usql/releases/download/v0.21.4/usql-0.21.4-windows-amd64.zip) | 42.9 MiB | `native/win/x64` |
-| [usql_static-0.21.4-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql_static-0.21.4-linux-amd64.tar.bz2) | 54.7 MiB | `native/linux/x64` |
-| [usql_static-0.21.4-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.4/usql_static-0.21.4-linux-arm64.tar.bz2) | 34.7 MiB | `native/linux/arm64` |
+| [usql-0.21.5-darwin-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-amd64.tar.bz2) | 60.4 MiB | `native/darwin/x64` |
+| [usql-0.21.5-darwin-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-arm64.tar.bz2) | 56.6 MiB | `native/darwin/arm64` |
+| [usql-0.21.5-darwin-universal.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-universal.tar.bz2) | 117.0 MiB | `native/darwin/x64` |
+| [usql-0.21.5-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-amd64.tar.bz2) | 69.7 MiB | `native/linux/x64` |
+| [usql-0.21.5-linux-arm.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-arm.tar.bz2) | 44.6 MiB | `native/linux/arm` |
+| [usql-0.21.5-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-arm64.tar.bz2) | 47.4 MiB | `native/linux/arm64` |
+| [usql-0.21.5-windows-amd64.zip](https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-windows-amd64.zip) | 44.7 MiB | `native/win/x64` |
+| [usql_static-0.21.5-linux-amd64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql_static-0.21.5-linux-amd64.tar.bz2) | 58.9 MiB | `native/linux/x64` |
+| [usql_static-0.21.5-linux-arm64.tar.bz2](https://github.com/xo/usql/releases/download/v0.21.5/usql_static-0.21.5-linux-arm64.tar.bz2) | 38.5 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ usql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:28:23Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:36:38Z._
