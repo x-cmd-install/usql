@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 59300834,
       "digest": "sha256:d1a48231215798d0e02274831323b6622b9ae2bf5f42af157be7946d01cfc3df",
-      "download_count": 58,
+      "download_count": 63,
       "created_at": "2026-09-13T07:05:18Z",
       "updated_at": "2026-09-13T07:05:22Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-darwin-arm64.tar.bz2"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 73066055,
       "digest": "sha256:033823cce96e2f5f658cbe7120e375fce19430218d0a128c1f55c2d755b65edb",
-      "download_count": 261,
+      "download_count": 330,
       "created_at": "2026-09-13T07:05:18Z",
       "updated_at": "2026-09-13T07:05:23Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-linux-amd64.tar.bz2"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 46885381,
       "digest": "sha256:7b2db302eb1d7debebdb4e4abe090bf60b09e1e2022ad547a5a91775c6097040",
-      "download_count": 256,
+      "download_count": 287,
       "created_at": "2026-09-13T07:05:18Z",
       "updated_at": "2026-09-13T07:05:21Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.5/usql-0.21.5-windows-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 61786149,
       "digest": "sha256:30a4463107d7d089acbd07e2c7b46865722e6fee2fcd114e95bc8d449a4ae465",
-      "download_count": 78,
+      "download_count": 98,
       "created_at": "2026-09-13T07:05:18Z",
       "updated_at": "2026-09-13T07:05:22Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.5/usql_static-0.21.5-linux-amd64.tar.bz2"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 40356750,
       "digest": "sha256:37bc69f6a68bf99a0c66fd948f7e10574c5b792b0fe4160f9b23a67f632f9346",
-      "download_count": 28,
+      "download_count": 34,
       "created_at": "2026-09-13T07:05:18Z",
       "updated_at": "2026-09-13T07:05:21Z",
       "browser_download_url": "https://github.com/xo/usql/releases/download/v0.21.5/usql_static-0.21.5-linux-arm64.tar.bz2"
