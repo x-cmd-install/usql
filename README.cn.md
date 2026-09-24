@@ -14,11 +14,11 @@ x install usql
 
 ## 代码洞察
 
-合计: **26,709** 行代码（覆盖前 5 种语言、共 **194** 个文件）。
+合计: **26,367** 行代码（覆盖前 5 种语言、共 **191** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 21,684 | 2,481 | 1,636 | 159 |
+| Go | 21,342 | 2,374 | 1,612 | 156 |
 | Json | 3,137 | 0 | 0 | 3 |
 | Sql | 1,124 | 235 | 230 | 18 |
 | Sh | 705 | 104 | 132 | 13 |
@@ -26,13 +26,13 @@ x install usql
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3 / 10**
+总评分: **3.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,27 +42,27 @@ x install usql
 ## 发布
 
 - **最新版本**: `v0.21.6` (2026-09-22)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 10,122 · **Fork**: 406 · **开放 issue**: 423 · **贡献者**: 34
+- **Star**: 10,124 · **Fork**: 406 · **开放 issue**: 423 · **贡献者**: 35
 
 ## 累计统计
 
-- **发布数**: 96 · **已合并 PR**: 90 · **开放 PR**: 25 · **已关闭 issue**: 327 · **开放 issue**: 96 · **提交数**: 1196
+- **发布数**: 96 · **已合并 PR**: 90 · **开放 PR**: 21 · **已关闭 issue**: 370 · **开放 issue**: 53 · **提交数**: 1214
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 2 | 0 | 1 | 0 | 3 | 13 |
-| last60d | 2026-07-25 | 2 | 0 | 2 | 1 | 3 | 13 |
-| 90d | 2026-06-25 | 2 | 0 | 4 | 1 | 3 | 13 |
-| last180d | 2026-03-27 | 2 | 0 | 12 | 2 | 10 | 14 |
-| 360d | 2025-09-28 | 17 | 0 | 13 | 13 | 16 | 34 |
-| last720d | 2024-10-03 | 31 | 4 | 19 | 40 | 31 | 88 |
+| 30d | 2026-08-25 | 2 | 0 | 1 | 2 | 1 | 30 |
+| last60d | 2026-07-26 | 2 | 0 | 1 | 3 | 1 | 30 |
+| 90d | 2026-06-26 | 2 | 0 | 1 | 3 | 1 | 30 |
+| last180d | 2026-03-28 | 2 | 0 | 8 | 11 | 1 | 32 |
+| 360d | 2025-09-29 | 17 | 0 | 9 | 25 | 4 | 52 |
+| last720d | 2024-10-04 | 31 | 4 | 15 | 55 | 15 | 106 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ usql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T05:44:44Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:19:11Z._
