@@ -14,11 +14,11 @@ x install usql
 
 ## Code insight
 
-Total: **26,367** lines of code across **191** files in the top 5 languages.
+Total: **26,482** lines of code across **192** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,342 | 2,374 | 1,612 | 156 |
+| Go | 21,457 | 2,418 | 1,621 | 157 |
 | Json | 3,137 | 0 | 0 | 3 |
 | Sql | 1,124 | 235 | 230 | 18 |
 | Sh | 705 | 104 | 132 | 13 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,126 · **Forks**: 405 · **Open issues**: 423 · **Contributors**: 35
+- **Stars**: 10,127 · **Forks**: 405 · **Open issues**: 423 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 90 · **Open PRs**: 17 · **Closed issues**: 371 · **Open issues**: 52 · **Commits**: 1221
+- **Releases**: 96 · **Merged PRs**: 90 · **Open PRs**: 8 · **Closed issues**: 371 · **Open issues**: 52 · **Commits**: 1228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 0 | 1 | 2 | 1 | 0 |
-| last60d | 2026-07-28 | 2 | 0 | 1 | 3 | 1 | 0 |
-| 90d | 2026-06-28 | 2 | 0 | 1 | 3 | 1 | 0 |
-| last180d | 2026-03-30 | 2 | 0 | 6 | 11 | 1 | 0 |
-| 360d | 2025-10-01 | 16 | 0 | 7 | 25 | 4 | 0 |
-| last720d | 2024-10-06 | 31 | 4 | 13 | 56 | 14 | 113 |
+| 30d | 2026-08-28 | 2 | 0 | 0 | 2 | 1 | 42 |
+| last60d | 2026-07-29 | 2 | 0 | 0 | 3 | 1 | 42 |
+| 90d | 2026-06-29 | 2 | 0 | 0 | 3 | 1 | 42 |
+| last180d | 2026-03-31 | 2 | 0 | 2 | 11 | 1 | 44 |
+| 360d | 2025-10-02 | 16 | 0 | 3 | 25 | 4 | 64 |
+| last720d | 2024-10-07 | 31 | 4 | 7 | 55 | 14 | 120 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:27:10Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:50:54Z._
