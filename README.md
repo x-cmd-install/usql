@@ -14,11 +14,11 @@ x install usql
 
 ## Code insight
 
-Total: **19,064** lines of code across **205** files in the top 5 languages.
+Total: **19,554** lines of code across **209** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,365 | 2,666 | 1,184 | 175 |
+| Go | 14,855 | 2,740 | 1,222 | 179 |
 | Json | 3,137 | 0 | 0 | 3 |
 | Sql | 873 | 250 | 222 | 17 |
 | Sh | 530 | 91 | 94 | 7 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **SAST** (0/10) — no SAST tool detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.6` (2026-09-22)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-13
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,137 · **Forks**: 406 · **Open issues**: 423 · **Contributors**: 35
+- **Stars**: 10,139 · **Forks**: 407 · **Open issues**: 423 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 90 · **Open PRs**: 8 · **Closed issues**: 371 · **Open issues**: 52 · **Commits**: 1294
+- **Releases**: 96 · **Merged PRs**: 90 · **Open PRs**: 8 · **Closed issues**: 371 · **Open issues**: 52 · **Commits**: 1295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 2 | 0 | 0 | 2 | 0 | 103 |
-| last60d | 2026-08-14 | 2 | 0 | 0 | 2 | 1 | 108 |
-| 90d | 2026-07-15 | 2 | 0 | 0 | 3 | 1 | 108 |
-| last180d | 2026-04-16 | 2 | 0 | 1 | 8 | 1 | 109 |
-| 360d | 2025-10-18 | 16 | 0 | 3 | 24 | 4 | 130 |
-| last720d | 2024-10-23 | 30 | 4 | 7 | 51 | 11 | 183 |
+| 30d | 2026-09-14 | 1 | 0 | 0 | 0 | 0 | 104 |
+| last60d | 2026-08-15 | 2 | 0 | 0 | 2 | 1 | 109 |
+| 90d | 2026-07-16 | 2 | 0 | 0 | 3 | 1 | 109 |
+| last180d | 2026-04-17 | 2 | 0 | 1 | 8 | 1 | 110 |
+| 360d | 2025-10-19 | 16 | 0 | 3 | 24 | 4 | 131 |
+| last720d | 2024-10-24 | 30 | 4 | 7 | 51 | 11 | 175 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:10Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:25:54Z._
