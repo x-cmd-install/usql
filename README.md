@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,147 · **Forks**: 407 · **Open issues**: 423 · **Contributors**: 35
+- **Stars**: 10,149 · **Forks**: 408 · **Open issues**: 423 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 0 | 1 | 0 | 0 | 104 |
-| last60d | 2026-08-19 | 2 | 0 | 1 | 2 | 1 | 109 |
-| 90d | 2026-07-20 | 2 | 0 | 1 | 3 | 1 | 109 |
-| last180d | 2026-04-21 | 2 | 0 | 2 | 8 | 1 | 110 |
-| 360d | 2025-10-23 | 16 | 0 | 4 | 24 | 4 | 131 |
-| last720d | 2024-10-28 | 28 | 4 | 8 | 51 | 11 | 153 |
+| 30d | 2026-09-19 | 1 | 0 | 1 | 0 | 0 | 79 |
+| last60d | 2026-08-20 | 2 | 0 | 1 | 2 | 1 | 109 |
+| 90d | 2026-07-21 | 2 | 0 | 1 | 3 | 1 | 109 |
+| last180d | 2026-04-22 | 2 | 0 | 2 | 8 | 1 | 110 |
+| 360d | 2025-10-24 | 16 | 0 | 4 | 24 | 4 | 131 |
+| last720d | 2024-10-29 | 28 | 4 | 8 | 51 | 11 | 153 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:59:58Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:26:00Z._
