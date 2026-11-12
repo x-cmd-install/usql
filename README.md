@@ -14,12 +14,12 @@ x install usql
 
 ## Code insight
 
-Total: **26,624** lines of code across **222** files in the top 5 languages.
+Total: **26,745** lines of code across **224** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 24,952 | 4,511 | 1,737 | 191 |
-| Sql | 1,066 | 294 | 222 | 22 |
+| Go | 25,042 | 4,532 | 1,752 | 192 |
+| Sql | 1,097 | 326 | 230 | 23 |
 | Sh | 428 | 76 | 72 | 5 |
 | Python | 110 | 4 | 0 | 3 |
 | Yaml | 51 | 13 | 7 | 1 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1341
+- **Releases**: 96 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1344
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 46 |
-| last60d | 2026-09-12 | 2 | 0 | 0 | 0 | 0 | 150 |
-| 90d | 2026-08-13 | 2 | 0 | 0 | 0 | 0 | 155 |
-| last180d | 2026-05-15 | 2 | 0 | 0 | 0 | 0 | 155 |
-| 360d | 2025-11-16 | 16 | 0 | 0 | 0 | 0 | 177 |
-| last720d | 2024-11-21 | 28 | 0 | 0 | 0 | 0 | 194 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 49 |
+| last60d | 2026-09-13 | 2 | 0 | 0 | 0 | 0 | 153 |
+| 90d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 158 |
+| last180d | 2026-05-16 | 2 | 0 | 0 | 0 | 0 | 158 |
+| 360d | 2025-11-17 | 16 | 0 | 0 | 0 | 0 | 180 |
+| last720d | 2024-11-22 | 28 | 0 | 0 | 0 | 0 | 197 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:55:21Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:05:09Z._
