@@ -14,11 +14,11 @@ x install usql
 
 ## Code insight
 
-Total: **26,745** lines of code across **224** files in the top 5 languages.
+Total: **26,779** lines of code across **224** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 25,042 | 4,532 | 1,752 | 192 |
+| Go | 25,076 | 4,532 | 1,752 | 192 |
 | Sql | 1,097 | 326 | 230 | 23 |
 | Sh | 428 | 76 | 72 | 5 |
 | Python | 110 | 4 | 0 | 3 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.21.6` (2026-09-22)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-15
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,169 · **Forks**: 408 · **Open issues**: 0 · **Contributors**: 35
+- **Stars**: 10,170 · **Forks**: 407 · **Open issues**: 0 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1344
+- **Releases**: 96 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1345
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 49 |
-| last60d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 153 |
-| 90d | 2026-08-16 | 2 | 0 | 0 | 0 | 0 | 158 |
-| last180d | 2026-05-18 | 2 | 0 | 0 | 0 | 0 | 158 |
-| 360d | 2025-11-19 | 16 | 0 | 0 | 0 | 0 | 180 |
-| last720d | 2024-11-24 | 28 | 0 | 0 | 0 | 0 | 197 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 49 |
+| last60d | 2026-09-16 | 1 | 0 | 0 | 0 | 0 | 146 |
+| 90d | 2026-08-17 | 2 | 0 | 0 | 0 | 0 | 159 |
+| last180d | 2026-05-19 | 2 | 0 | 0 | 0 | 0 | 159 |
+| 360d | 2025-11-20 | 16 | 0 | 0 | 0 | 0 | 181 |
+| last720d | 2024-11-25 | 28 | 0 | 0 | 0 | 0 | 198 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:10:11Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:10:18Z._
