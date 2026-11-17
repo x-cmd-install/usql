@@ -24,16 +24,6 @@ x install usql
 | Python | 110 | 4 | 0 | 3 |
 | Yaml | 51 | 13 | 7 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.1 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — no SAST tool detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/xo/usql>
@@ -47,7 +37,7 @@ x install usql
 
 ## 流行度
 
-- **Star**: 10,170 · **Fork**: 407 · **开放 issue**: 0 · **贡献者**: 35
+- **Star**: 10,170 · **Fork**: 408 · **开放 issue**: 0 · **贡献者**: 35
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install usql
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 49 |
-| last60d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 146 |
-| 90d | 2026-08-18 | 2 | 0 | 0 | 0 | 0 | 159 |
-| last180d | 2026-05-20 | 2 | 0 | 0 | 0 | 0 | 159 |
-| 360d | 2025-11-21 | 16 | 0 | 0 | 0 | 0 | 181 |
-| last720d | 2024-11-26 | 28 | 0 | 0 | 0 | 0 | 198 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 49 |
+| last60d | 2026-09-18 | 1 | 0 | 0 | 0 | 0 | 146 |
+| 90d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 159 |
+| last180d | 2026-05-21 | 2 | 0 | 0 | 0 | 0 | 159 |
+| 360d | 2025-11-22 | 16 | 0 | 0 | 0 | 0 | 181 |
+| last720d | 2024-11-27 | 28 | 0 | 0 | 0 | 0 | 198 |
 
 ## Release 资产
 
@@ -87,4 +77,4 @@ usql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:22:22Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:26:21Z._
