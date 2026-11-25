@@ -24,6 +24,16 @@ Total: **26,779** lines of code across **224** files in the top 5 languages.
 | Python | 110 | 4 | 0 | 3 |
 | Yaml | 51 | 13 | 7 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **SAST** (0/10) — no SAST tool detected
+
 ## Source
 
 - **Upstream**: <https://github.com/xo/usql>
@@ -37,7 +47,7 @@ Total: **26,779** lines of code across **224** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,178 · **Forks**: 407 · **Open issues**: 0 · **Contributors**: 35
+- **Stars**: 10,179 · **Forks**: 407 · **Open issues**: 0 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -47,12 +57,12 @@ Total: **26,779** lines of code across **224** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 50 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 103 |
-| 90d | 2026-08-26 | 2 | 0 | 0 | 0 | 0 | 160 |
-| last180d | 2026-05-28 | 2 | 0 | 0 | 0 | 0 | 160 |
-| 360d | 2025-11-29 | 16 | 0 | 0 | 0 | 0 | 182 |
-| last720d | 2024-12-04 | 28 | 0 | 0 | 0 | 0 | 198 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 50 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 103 |
+| 90d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 160 |
+| last180d | 2026-05-29 | 2 | 0 | 0 | 0 | 0 | 160 |
+| 360d | 2025-11-30 | 16 | 0 | 0 | 0 | 0 | 182 |
+| last720d | 2024-12-05 | 28 | 0 | 0 | 0 | 0 | 198 |
 
 ## Release assets
 
@@ -77,4 +87,4 @@ Install metadata for usql lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:16:30Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:36:53Z._
